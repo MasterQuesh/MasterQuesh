@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently studying object oriented programming!
 - 🌱 I’m currently learning C# and Lua
 - ⚡ Fun fact: there are more chickens than people in the world
 

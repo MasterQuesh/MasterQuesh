@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning C# and Lua
+- 🌱 I’m currently learning GDScript
 - ⚡ Fun fact: there are more chickens than people in the world
 
   <div>
